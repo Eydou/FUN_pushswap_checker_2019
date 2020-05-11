@@ -9,3 +9,10 @@ Your program will display “OK” on the standard output (followed by a newline
 list (and the second empty), or “KO” otherwise.
 If the result is negative, you are free to display additionnal informations after the “KO” string.
 In case of inadequate input, your program will return 84. Otherwise, it will return 0.
+
+
+[6.1]: http://i.imgur.com/0o48UoR.png (Follow me !)
+
+[1]: https://github.com/Eydou
+
+Follow me on [![alt text][6.1]][1]
